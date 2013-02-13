@@ -1,0 +1,24 @@
+{
+	"anvil.template": {
+		"files": {
+			"about.hbrs": {
+				"about.html": {
+					"title": "About Us"
+				}
+			},
+			"index.hbrs": {
+				"index.html": {
+					"title": "Home Page"
+				}
+			},
+			"contact.hbrs": {
+				"contact.html": {
+					"title": "Contact Us"
+				}
+			}
+		}
+	},
+	"httpPaths": {
+		"/": "./lib"
+	}
+}

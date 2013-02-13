@@ -1,0 +1,9 @@
+{{>head}}
+
+{{nav mainNavigation "primaryNav" "about" }}
+
+<div class="content about">
+	<h2>{{title}}</h2>
+</div>
+
+{{>endBody}}

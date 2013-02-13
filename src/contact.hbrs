@@ -1,0 +1,9 @@
+{{>head}}
+
+{{nav mainNavigation "primaryNav" "contact" }}
+
+<div class="content contact">
+	<h2>{{title}}</h2>
+</div>
+
+{{>endBody}}

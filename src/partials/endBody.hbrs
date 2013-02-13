@@ -1,0 +1,4 @@
+
+	{{loadJs scripts.js}}
+</body>
+</html>

@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{title}}</title>
+	{{loadCss scripts.css}}
+
+</head>
+<body>

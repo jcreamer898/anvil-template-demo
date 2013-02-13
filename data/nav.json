@@ -1,0 +1,13 @@
+{
+	"mainNavigation": {
+		"home": {
+			"href": "/index.html"
+		},
+		"about": {
+			"href": "/about.html"
+		},
+		"contact": {
+			"href": "/contact.html"
+		}
+	}
+}

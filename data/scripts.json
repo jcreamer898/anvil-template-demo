@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"js": {
+			"jquery": "//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js",
+			"jqueryui": "//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js"	
+		},
+		"css": {
+			"main": "css/main.css"
+		}	
+	}
+}
