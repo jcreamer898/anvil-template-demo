@@ -20,5 +20,6 @@
 	},
 	"httpPaths": {
 		"/": "./lib"
-	}
+	},
+	"dependencies": [ "anvil.template" ]
 }
